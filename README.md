@@ -30,7 +30,7 @@ Sources: The Movie Database (TMDB) 5000 dataset, IMDb metadata, and Kaggle Globa
 
 ### 📊 Key Insights & Business Recommendations
 
-By combining exploratory analysis with Causal Machine Learning (X-Learner & DR-Learner), we identified the true drivers of a movie's probability to become profitable:
+By combining exploratory analysis with Causal Machine Learning methods (X-Learner & Causal Forest), we identified the true drivers of a movie's probability to become profitable:
 
 * The Talent Multiplier: Upgrading to a "Proven" director is the ultimate risk-mitigation strategy, actively increasing a movie's baseline probability of profitability by ~18 percentage points. This effect is disproportionately stronger for independent studios that lack the massive marketing safety nets of the "Big 6".
 
