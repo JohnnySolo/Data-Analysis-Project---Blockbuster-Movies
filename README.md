@@ -24,7 +24,9 @@ Sources: The Movie Database (TMDB) 5000 dataset, IMDb metadata, and Kaggle Globa
 
 * **Statistical Testing**: Validated EDA insights using Two-Sample T-Tests, One-Way ANOVA, and Variance Inflation Factor (VIF) checks.
 
-* **Predictive Modeling & Evaluation**: Trained Supervised ML Models (Logistic Regression (L1), Random Forest, and XGBoost models) to predict profitability greenflag.
+* **Predictive Modeling**: Trained Supervised ML Models (Logistic Regression (L1), Random Forest, and XGBoost models) to predict profitability greenflag.
+
+* **Model Evaluation**: Ensured algorithmic robustness by using a dual-layered evaluation framework, leveraging 5-Fold Cross-Validation, and assessing critical classification metrics, including Precision, Recall, F1-Score, and AUC-ROC.
 
 * **Causal Machine Learning (Prescriptive Strategy)**: Implemented the X-Learner (Meta-Learner) and Causal Forest for Segmentation Causal Analysis, calculating Conditional Average Treatment Effects (CATE) for specific business interventions.
 
