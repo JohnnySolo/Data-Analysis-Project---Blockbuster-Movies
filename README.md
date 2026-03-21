@@ -1,4 +1,4 @@
-# 🎬 Blockbuster Movies Prediction
+# 🎬 Hollywood Greenlight Analytics: Predicting and Shaping Movie Profitability
 
 ## 📌 Project Overview
 
